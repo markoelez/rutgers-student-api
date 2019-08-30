@@ -1,6 +1,6 @@
 ### API for querying Rutgers student information
 
-## API Reference::
+# API Reference:
 
 | URL | Method | Description | Parameters |
 |:-------------------------------:|:------:|:---------------------------------------:|:-----------------------------------:|
