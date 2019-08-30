@@ -1,4 +1,7 @@
-## API for querying Rutgers student information
+### API for querying Rutgers student information
 
-### Routes:
+## API Reference::
 
+| URL | Method | Description | Parameters |
+|:-------------------------------:|:------:|:---------------------------------------:|:-----------------------------------:|
+| /login | POST | Login to Rutgers CAS | netid & password |
