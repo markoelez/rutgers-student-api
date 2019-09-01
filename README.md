@@ -9,4 +9,4 @@ API located at `https://ruapi-api-heroku.herokuapp.com`
 | URL | Method | Description | Parameters |
 |:-------------------------------:|:------:|:---------------------------------------:|:-----------------------------------:|
 | /login | POST | Login to Rutgers CAS | netid & password |
-| /name \ GET | Returns student's full name | netid & password |
+| /name | GET | Returns student's full name | netid & password |
